@@ -1,3 +1,2 @@
-# Practice-repo
-Practice courses
-All practice python files are here!
+# Data Analyst NanoDegree
+All Project files are here!
